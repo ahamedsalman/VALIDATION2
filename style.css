@@ -1,0 +1,22 @@
+#f{
+    color: darkgoldenrod;
+    background-color: darkblue;
+    border: 2px solid black;
+    display: table;
+    padding: 15px;
+}
+#d{
+    display: table-row
+}
+#d label{
+    display: table-cell;
+    padding: 2px;
+    text-align: right;
+}
+#d input{
+    display: table-cell;
+    padding: 2px;
+}
+p{
+    color: red;
+}
